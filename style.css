@@ -84,8 +84,9 @@ button:hover {
 .top-bar {
   display: flex;
   justify-content: space-between;
-  font-size: 16px;
+  font-size: 18px;
   margin-bottom: 100px;
+  color: rgba()
 }
 
 .controls {
@@ -95,7 +96,8 @@ button:hover {
 #hintText {
   margin-top: 40px;
   font-style: italic;
-  font-size: 20px;
+  font-size: 24px;
+  color: rgba()
 }
 
 .footer{
@@ -120,7 +122,7 @@ button:hover {
   animation: slide 20s linear infinite;
 
   color: white;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 @keyframes slide{
@@ -139,7 +141,7 @@ margin: 0;
 padding: 0;
 opacity: 0;
 background: url('bg1.jpg') no-repeat center center/cover;
-transition: opacity 0.6s ease;
+transition: opacity 1s ease;
 }
 body.loaded {
 opacity: 1;
