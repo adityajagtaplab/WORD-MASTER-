@@ -86,7 +86,7 @@ button:hover {
   justify-content: space-between;
   font-size: 18px;
   margin-bottom: 100px;
-  color: rgba()
+  color: rgba(255, 193, 7, 1)
 }
 
 .controls {
@@ -97,7 +97,7 @@ button:hover {
   margin-top: 40px;
   font-style: italic;
   font-size: 24px;
-  color: rgba()
+  color: rgba(255, 193, 7, 1)
 }
 
 .footer{
